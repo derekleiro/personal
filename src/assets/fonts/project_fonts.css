@@ -1,10 +1,4 @@
 @font-face {
-	font-family: "Poppins";
-	font-display: swap;
-	src: url(Poppins-Regular.woff2);
-}
-
-@font-face {
 	font-family: "Poppins Bold";
 	font-display: swap;
 	src: url(Poppins-Bold.woff2);
